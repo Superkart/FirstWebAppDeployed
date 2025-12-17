@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "my-484-app",
+	"name": "superkart",
 	"main": "./dist/_worker.js/index.js",
 	"compatibility_date": "2025-08-29",
 	"compatibility_flags": [
